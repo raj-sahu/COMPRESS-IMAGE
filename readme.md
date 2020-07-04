@@ -2,7 +2,7 @@
 
 # Overview :
 
-A Notebook to illustrate interactively Image compression Using Singular Value Decompositon. 
+A Notebook to interactively illustrate  Image compression Using Singular Value Decompositon. 
 
 # Demo
 
